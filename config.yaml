@@ -1,6 +1,6 @@
 baseURL: 'https://cobanov.dev/poems/'
 languageCode: en-us
 title: Cobanov
-theme: hugo-bearblog
+theme: elephants
 params:
   sitename: Cobanov
