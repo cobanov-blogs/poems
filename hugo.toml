@@ -1,4 +1,4 @@
-baseURL = "http://poems.cobanov.dev"
+baseURL = "https://cobanov.dev/poems/"
 languageCode = "en-us"
 title = "Cobanov"
 theme = "elephants"
