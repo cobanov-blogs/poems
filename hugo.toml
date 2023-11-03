@@ -1,7 +1,6 @@
-baseURL = "https://cobanov.dev/poems/"
-languageCode = "en-us"
-title = "Cobanov"
-theme = "hugo-bearblog"
-
-[params]
-    sitename = "Cobanov"
+baseURL: 'https://cobanov.dev/poems/'
+languageCode: en-us
+title: Cobanov
+theme: hugo-bearblog
+params:
+  sitename: Cobanov
