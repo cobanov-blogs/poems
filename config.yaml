@@ -1,6 +1,6 @@
-baseURL: 'https://cobanov.dev/poems/'
+baseURL: "https://cobanov.dev/poems/"
 languageCode: en-us
 title: Cobanov
-theme: elephants
+theme: hugo-bearblog
 params:
   sitename: Cobanov
