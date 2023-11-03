@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cobanov.dev/poems/</loc>
+    <lastmod>2023-10-30T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/</loc>
+    <lastmod>2023-10-30T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/vecenice/</loc>
+    <lastmod>2023-10-30T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/ophelia/</loc>
+    <lastmod>2023-10-29T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/atlar/</loc>
+    <lastmod>2023-07-16T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/onermeler/</loc>
+    <lastmod>2023-05-02T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/deneme/</loc>
+    <lastmod>2023-04-06T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/blog/hesapsiz/</loc>
+    <lastmod>2023-04-06T13:01:46-07:00</lastmod>
+  </url><url>
+    <loc>https://cobanov.dev/poems/categories/</loc>
+  </url><url>
+    <loc>https://cobanov.dev/poems/tags/</loc>
+  </url>
+</urlset>
